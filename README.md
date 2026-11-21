@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/Masriah091/global-wire-21-nov/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/Masriah091/global-wire-21-nov/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
 # THE GLOBAL WIRE - The World in One Day, Saturday 21 November 2026
 
 A wire-service monochrome front page: one picture carrying the whole of
